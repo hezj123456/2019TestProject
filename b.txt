@@ -1,2 +1,3 @@
-run in branch1
-ready to commit
+run in branch of bug01!
+test for stash
+
