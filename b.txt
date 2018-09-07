@@ -1,1 +1,2 @@
 run in branch of bug01!
+test for stash
